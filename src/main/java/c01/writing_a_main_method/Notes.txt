@@ -1,0 +1,8 @@
+# Each file can contain only one public class.
+
+# To run Java class via CMD:
+  - Open cmd in 'java-ocp\src\main\java' directory.
+  - compile= javac c01/writing_a_main_method/Zoo.java
+  - run= java c01.writing_a_main_method.Zoo
+  - run with params= java c01.writing_a_main_method.Zoo "San Diego" Bronx Zoo
+  - compile and run simultaneously (Single-File Source-Code)= java c01/writing_a_main_method/Zoo.java
