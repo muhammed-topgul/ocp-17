@@ -1,4 +1,4 @@
-package com.mtopgul.c01.classStructure;
+package c01.understanding_class_structure;
 
 /**
  * @author muhammed-topgul
