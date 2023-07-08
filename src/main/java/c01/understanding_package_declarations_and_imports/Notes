@@ -1,0 +1,21 @@
+# Compiling and Running Code with Packages
+  - To compile= javac c01/understanding_package_declarations_and_imports/packageb/ClassB.java
+  - To run= java c01.understanding_package_declarations_and_imports.packageb.ClassB
+
+# Compiling with Wildcards
+  - To compile= javac c01/understanding_package_declarations_and_imports/packageb/*.java
+  - To compile= javac c01/understanding_package_declarations_and_imports/packagea/*.java
+                      c01/understanding_package_declarations_and_imports/packageb/*.java
+
+# Compiling to Another Directory
+  - To compile= javac -d classes c01/understanding_package_declarations_and_imports/packageb/ClassB.java
+  - To run= java -cp classes c01.understanding_package_declarations_and_imports.packageb.ClassB
+
+
+
+ # Important javac options
+    Option                       Description
+    -cp <classpath>              Location of classes needed to compile the program
+    -classpath <classpath>
+    --class-path <classpath>
+    -d <dir>                     Directory in which to place generated class files
