@@ -1,4 +1,4 @@
-package c04.creating_and_manipulating_strings;
+package c04.using_the_string_builder_class;
 
 /**
  * @author muhammed-topgul
