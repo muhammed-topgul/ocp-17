@@ -1,4 +1,4 @@
-package c05.designing_methods;
+package c05.designing_methods.return_type;
 
 /**
  * @author muhammed-topgul

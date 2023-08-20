@@ -1,4 +1,4 @@
-package c05.method_signature;
+package c05.designing_methods.method_signature;
 
 /**
  * @author muhammed-topgul

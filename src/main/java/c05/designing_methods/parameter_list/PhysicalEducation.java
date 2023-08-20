@@ -1,4 +1,4 @@
-package c05.parameter_list;
+package c05.designing_methods.parameter_list;
 
 /**
  * @author muhammed-topgul
