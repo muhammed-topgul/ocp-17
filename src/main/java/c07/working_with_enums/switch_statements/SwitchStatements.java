@@ -1,4 +1,4 @@
-package c07.switch_statements;
+package c07.working_with_enums.switch_statements;
 
 import c07.working_with_enums.creating.Season;
 

@@ -1,4 +1,4 @@
-package c07.fields_and_methods;
+package c07.working_with_enums.fields_and_methods;
 
 /**
  * @author muhammed-topgul
@@ -19,6 +19,8 @@ public enum Season1 implements Weather {
 
     SPRING, FALL;
 
+    // public abstract String getHours();
+
     public String getHours() {
         return "9am-5pm";
     }
@@ -28,7 +30,6 @@ public enum Season1 implements Weather {
         return 0;
     }
 
-//    public abstract String getHours();
 
     public static void main(String[] args) {
         System.out.println(Season1.WINTER.getHours());

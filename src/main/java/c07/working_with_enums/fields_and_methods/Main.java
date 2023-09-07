@@ -1,4 +1,4 @@
-package c07.fields_and_methods;
+package c07.working_with_enums.fields_and_methods;
 
 /**
  * @author muhammed-topgul
